@@ -48,6 +48,8 @@ Session.vim
 /content/data/*
 /content/apps/**/*
 /content/themes/casper/**/*
+/content/themes/readium/default.hbs
+/content/themes/readium/post.hbs
 /content/images/**/*
 !/content/themes/casper/**
 !/content/themes/readium/**
@@ -59,6 +61,7 @@ CHANGELOG.md
 # Casper generated files
 /core/test/functional/*.png
 
+config.js
 /core/client/config.js
 
 # Built asset files
@@ -70,6 +73,3 @@ coverage.html
 
 
 # Include below files if there are changes in them ELSE FTP them manually
-config.js
-/content/themes/readium/default.hbs
-/content/themes/readium/post.hbs
