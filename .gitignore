@@ -67,3 +67,9 @@ CHANGELOG.md
 
 # Coverage reports
 coverage.html
+
+
+# Include below files if there are changes in them ELSE FTP them manually
+config.js
+/content/themes/readium/default.hbs
+/content/themes/readium/post.hbs
